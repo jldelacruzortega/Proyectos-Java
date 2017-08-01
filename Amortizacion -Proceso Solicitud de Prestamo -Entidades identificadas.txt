@@ -1,0 +1,51 @@
+El oficial le pide al cliente:
+El cliente llega al Banco y se dirige a donde el Gestor de Negocios a solicitar un prestamo, para hacer el procedimeinto el Getor le solicita su cedula
+para verficicar en el sistema sus:
+
+////La cedula con ella verifican en el sistema sus:
+
+*Estados de movimientos
+*Verificar data credito
+*Experiencia de credtio
+*Que no tenga fichas
+
+Nota: Si lo antes mencionado esta correcto se procede a: leer mas abajao.
+
+Se crea un perfil del cilente (si es nuevo)
+
+*Nombre 
+*Apellidos
+*Cedula
+*Estado civil
+*Direccion
+*Telefonos
+*Si es empleado o independiente
+*En el empleo se pone el nombre de la empresa
+*El tiempo que tiene laborando
+*Los ingresos que persive.
+
+
+Se crea la solicitud del prestamo:
+
+Se elige tipo de prestamo:
+*Personal o de consumo
+*Hipotecario
+*De vehiculos
+
+*El monto solicitado
+*El tiempo
+*Tasa
+*Si es con garante o sin garante
+
+
+--Se le da a preaprobar
+Nota: Para poder aprobar el prestamo hay que hacer una validacion que la cuota del prestamo sea menor al 50% del sueldo.
+si Sale preaprobado se envia a analisis para otrogar el prestamo.
+
+Nota: A todos los prestamos se les pueden hacer pagos extraordinarios.
+
+
+Entidades identificadas:
+Cliente
+Prestano
+
