@@ -1,0 +1,6 @@
+Cita
+Medico
+Paciente
+Persona
+Procedimiento
+Horario
